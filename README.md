@@ -1,3 +1,3 @@
 
-Goto:  https://silly-halva-39b777.netlify.app
+GOTO:  https://silly-halva-39b777.netlify.app
  
